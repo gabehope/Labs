@@ -6,4 +6,4 @@ torchvision
 torchsummary
 fastprogress
 pandas
-scikit-learn
+scikit-learn 
